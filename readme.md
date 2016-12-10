@@ -16,7 +16,7 @@ moment('2016-12-26').isOnAustralianHoliday() // Returns true
 moment('2016-12-26').isOnAustralianHoliday() // Returns false
 
 // Check if that moment occurs during a public holiday, used to test for part-day public holiday
-moment('2016-12-11 20:00').isDuringAustralianHoliday() // returns true as Christmas Eve occurs between 7PM and 12AM
-moment('2016-12-11 13:00').isDuringAustralianHoliday() // returns false as Christmas Eve occurs between 7PM and 12AM
+moment('2016-12-24 20:00').isDuringAustralianHoliday() // returns true as Christmas Eve occurs between 7PM and 12AM
+moment('2016-12-24 13:00').isDuringAustralianHoliday() // returns false as Christmas Eve occurs between 7PM and 12AM
 
 ```

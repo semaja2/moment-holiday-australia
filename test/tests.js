@@ -17,14 +17,14 @@ describe('Holiday extensions', function() {
   });
 
   it('should return false for 1pm 24th December 2016', function(done) {
-    var result = moment('2016-12-11 13:00').isDuringAustralianHoliday()
+    var result = moment('2016-12-24 13:00').isDuringAustralianHoliday()
     assert.deepEqual(result, false)
     done()
   });
 
   it('should return true for 8pm 24th December 2016', function(done) {
-    var result = moment('2016-12-11 20:00').isDuringAustralianHoliday()
-    assert.deepEqual(result, false)
+    var result = moment('2016-12-24 20:00').isDuringAustralianHoliday()
+    assert.deepEqual(result, true)
     done()
   });
 
