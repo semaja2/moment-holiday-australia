@@ -1,9 +1,9 @@
 # moment-holiday-australia
 Extends the moment library with functions to determine if a moment occurs during a South Australian public holiday
 
-Public holiday data is loaded via the http://www.safework.sa.gov.au/uploaded_files/holidayCalendar.ics iCal feed
+Public holiday data is stored inside module as of 0.2.0, data will be updated for future dates in module updates
 
-**Note:** *When the module is first loaded it makes a synchronous request, as such please be aware of the potential performance impact when loading the module*
+Retrieving public holiday data from a web source will be returned in a future update
 
 ## Example
 

@@ -1,0 +1,82 @@
+{
+    "dates": [
+        {
+            "description": "New Year's Day",
+            "start": "2019-01-01 00:00",
+            "end": "2019-01-02 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Australia Day",
+            "start": "2019-01-26 00:00",
+            "end": "2019-01-27 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Adelaide Cup Day",
+            "start": "2019-03-11 00:00",
+            "end": "2019-03-12 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Good Friday",
+            "start": "2019-04-19 00:00",
+            "end": "2019-04-20 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Easter Saturday",
+            "start": "2019-04-20 00:00",
+            "end": "2019-04-21 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Easter Monday",
+            "start": "2019-04-22 00:00",
+            "end": "2019-04-23 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Anzac Day",
+            "start": "2019-04-25 00:00",
+            "end": "2019-04-26 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Queen's Birthday",
+            "start": "2019-05-10 00:00",
+            "end": "2019-05-11 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Labour Day",
+            "start": "2019-08-07 00:00",
+            "end": "2019-08-08 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Christmas Eve",
+            "start": "2019-12-24 19:00",
+            "end": "2019-12-25 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Christmas Day",
+            "start": "2019-12-25 00:00",
+            "end": "2019-12-26 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "Boxing Day",
+            "start": "2019-12-26 00:00",
+            "end": "2019-12-27 00:00",
+            "timezone": "Australia/Adelaide"
+        },
+        {
+            "description": "New Year's Eve",
+            "start": "2019-12-31 07:00",
+            "end": "2020-01-01 00:00",
+            "timezone": "Australia/Adelaide"
+        }
+    ]
+}

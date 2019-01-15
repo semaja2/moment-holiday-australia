@@ -1,9 +1,11 @@
 {
   "name": "moment-holiday-australia",
-  "version": "0.1.2",
-  "description": "Moment.js extension to easily determine if moment is during a public holiday in Australia",
+  "version": "0.2.0",
+  "description": "Moment.js extension to easily determine if moment is during a public holiday in South Australia",
   "scripts": {
-    "test": "make test",
+    "test": "make test"
+  },
+  "config": {
     "blanket": {
       "pattern": "lib",
       "data-cover-never": "node_modules"
@@ -14,9 +16,7 @@
     "url": "http://github.com/semaja2/moment-holiday-australia.git"
   },
   "dependencies": {
-    "ical": ">=0.5.0",
-    "moment": ">= 2.0.0",
-    "sync-request": "^3.0.1"
+    "moment": ">= 2.0.0"
   },
   "devDependencies": {
     "mocha": ">= 1.11.0",
