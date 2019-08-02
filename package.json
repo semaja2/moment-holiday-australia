@@ -1,6 +1,6 @@
 {
   "name": "moment-holiday-australia",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Moment.js extension to easily determine if moment is during a public holiday in South Australia",
   "scripts": {
     "test": "make test"
